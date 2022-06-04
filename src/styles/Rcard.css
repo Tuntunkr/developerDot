@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    margin-right: 8rem;
+    display: flex;
+    border-radius: 4px;
+    border: 1px solid #7958d7;
+    padding: 1.25em;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.img1{
+    width: 20vw;
+    border-radius: 4px;
+    
+}
+
+.contents {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.25em;
+    width: 100%;
+}
+
+.details{
+    display: flex;
+    
+}
+
+h6{
+
+    margin-left: 80px;
+    margin-top: 10px;
+}
